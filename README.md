@@ -18,5 +18,4 @@ N/A
 
 ## License
 
-Please refere to the LICENSE in the repo.
----
+Please refer to the LICENSE in the repo.
