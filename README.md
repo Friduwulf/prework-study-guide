@@ -17,5 +17,6 @@ This study guide can be used to study the skills learned in the Coding Bootcamp.
 N/A
 
 ## License
+
 Please refere to the LICENSE in the repo.
 ---
